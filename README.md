@@ -1,1 +1,2 @@
 # odin-recipes
+This project was designed as a learning project for the odin project. This website should appear fairly basic, but will display some core competencies about web design. It should display knowledge of how to use git and github, as well as basic HTML knowledge of links, images, and general website layout.
